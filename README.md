@@ -1,2 +1,4 @@
 # hello-world
-Just trying out GitHub
+I just want to try out GitHub
+##Is this amazing?
+How will this be **merged**?
